@@ -2,18 +2,19 @@
 
 ### Welcome to my 100 days of leetcode challenge by edslash 
 
-## language :
+### language :
 - java
 - python
 
-## goals:
+### goals:
 - solving one problem daily
 - staying consistant 
 - starting from basics to a complete champ
 - documenting daily problems here 
 
-## Progress:
+### Progress:
  day 1 : Complete 
 
  ---
-### Thanks for visiting my immature repo 
+Thanks for visiting leetcode repository<3
+ follow along my journey!
