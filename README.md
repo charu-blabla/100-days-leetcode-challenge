@@ -13,7 +13,8 @@
 - documenting daily problems here 
 
 ### Progress:
- day 1 : Complete 
+ Day 1 : Complete 
+ Day 2 : Complete
 
  ---
 Thanks for visiting leetcode repository<3
