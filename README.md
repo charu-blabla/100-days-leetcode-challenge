@@ -17,5 +17,5 @@
  Day 2 : Complete
 
  ---
-Thanks for visiting leetcode repository<3
+Thanks for visiting my leetcode repository<3
  follow along my journey!
