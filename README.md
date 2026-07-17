@@ -15,6 +15,7 @@
 ### Progress:
  Day 1 : Complete 
  Day 2 : Complete
+ Day 3 : Complete
 
  ---
 Thanks for visiting my leetcode repository<3
