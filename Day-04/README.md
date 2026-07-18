@@ -5,4 +5,4 @@
 - Language : python
 - Time Taken : 5 min
 
-problem link : https://leetcode.com/problems/n-th-tribonacci-number/description/
+### problem link : https://leetcode.com/problems/n-th-tribonacci-number/description/
