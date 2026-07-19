@@ -17,6 +17,7 @@
 - Day 2 : Complete
 - Day 3 : Complete
 - Day 4 : Complete
+- Day 5 : Complete
 
  ---
 Thanks for visiting my leetcode repository<3
