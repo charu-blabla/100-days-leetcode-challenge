@@ -26,6 +26,7 @@
 - Day 11 : Complete
 - Day 12 : Complete
 - Day 13 : Complete
+- Day 14 : Complete
 
  ---
 Thanks for visiting my leetcode repository<3
