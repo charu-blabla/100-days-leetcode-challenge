@@ -10,9 +10,10 @@
 - solving one problem daily
 - staying consistant 
 - starting from basics to a complete champ
-- documenting daily problems here 
+- documenting daily problems here
 
-| Day | Progress |
+### Progress: 
+| Day | Status |
 |---|---|
 | Day 1 | Complete |
 | Day 2 | Complete |
