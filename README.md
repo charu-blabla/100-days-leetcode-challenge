@@ -32,6 +32,7 @@
 | Day 15 | Complete |
 | Day 16 | Complete |
 | Day 17 | Complete |
+| Day 18 | Complete |
  ---
 Thanks for visiting my leetcode repository<3
  follow along my journey!
