@@ -8,14 +8,14 @@
 
 ### goals:
 - solving one problem daily
-- staying consistant 
+- staying consistent 
 - starting from basics to a complete champ
 - documenting daily problems here
 
 ### Progress: 
-| Day | Status |
-|---|---|
-| Day 1 | Complete |
+| Day | Status | | Day | Status |
+|---|---|---|---|---|
+| Day 1 | Complete || Day 21 | Complete |
 | Day 2 | Complete |
 | Day 3 | Complete |
 | Day 4 | Complete |
