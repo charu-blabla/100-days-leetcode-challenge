@@ -16,7 +16,7 @@
 | Day | Status | | Day | Status |
 |---|---|---|---|---|
 | Day 1 | Complete || Day 21 | Complete |
-| Day 2 | Complete |
+| Day 2 | Complete || Day 22 | Complete |
 | Day 3 | Complete |
 | Day 4 | Complete |
 | Day 5 | Complete |
