@@ -19,7 +19,7 @@
 | Day 2 | Complete || Day 22 | Complete |
 | Day 3 | Complete || Day 23 | Complete |
 | Day 4 | Complete || Day 24 | Complete |
-| Day 5 | Complete |
+| Day 5 | Complete || Day 24 | Complete |
 | Day 6 | Complete |
 | Day 7 | Complete |
 | Day 8 | Complete |
