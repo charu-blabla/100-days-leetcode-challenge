@@ -23,7 +23,7 @@
 | Day 6 | Complete || Day 26 | Complete |
 | Day 7 | Complete || Day 27 | Complete |
 | Day 8 | Complete || Day 28 | Complete |
-| Day 9 | Complete |
+| Day 9 | Complete || Day 29 | Complete |
 | Day 10 | Complete |
 | Day 11 | Complete |
 | Day 12 | Complete |
