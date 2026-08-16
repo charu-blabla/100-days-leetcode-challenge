@@ -26,8 +26,8 @@
 | Day 9 | Complete || Day 29 | Complete |
 | Day 10 | Complete || Day 30 | Pending |
 | Day 11 | Complete || Day 31 | Complete |
-| Day 12 | Complete || Day 31 | Pending |
-| Day 13 | Complete |
+| Day 12 | Complete || Day 32 | Pending |
+| Day 13 | Complete || Day 33 | Complete |
 | Day 14 | Complete |
 | Day 15 | Complete |
 | Day 16 | Complete |
